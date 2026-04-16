@@ -1,3 +1,3 @@
 # Garderobe
-https://garderobe000.netlify.app/
-under construction :)
+
+under construction, cool stuff on the way :)
